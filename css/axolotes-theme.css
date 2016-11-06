@@ -5,3 +5,13 @@ body {
 .page-header{
   border-color: #aaa;
 }
+
+#carousel-fotos{
+  max-width: 1024px;
+  max-height: 575px;
+  overflow: hidden;
+}
+.carousel img{
+  min-width: 100%;
+  height: auto;
+}
